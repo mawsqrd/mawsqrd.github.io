@@ -1,5 +1,5 @@
 # mawsqrd.github.io
 
-Hummingbirds Website
+American Green Tree Frog
 
-I'm creating a website about hummingbirds for an introduction to modern web design course project.
+I'm creating a website about the American green tree frog for an introduction to modern web design course project.
